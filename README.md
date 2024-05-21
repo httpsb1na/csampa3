@@ -1,2 +1,5 @@
-# csampa3
-Today I will be learning how to work github
+# Marking peroid 3 Work 
+## AP Computer Science A -- FDR High School
+
+### In this repository:
+- Solutions to 2024 Free Response Questions
