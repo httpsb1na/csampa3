@@ -1,2 +1,2 @@
 # csampa3
-learning GitHub
+Today I will be learning how to work github
