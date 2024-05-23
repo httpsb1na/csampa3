@@ -8,7 +8,7 @@ My best friend, my lover, my highest score, my one and only. SERIOUSLY, I LOVED 
 - **Rate This Question?:** [infinity]
 
 ## 🛍️ Struggles with This Question...
-Another fun fact is I forgot how to use math.random() during the previous mock exam... so perfect chance to redeem myself !!
+I lucked out with this one, everything with this question was a answer to my prayer.
 
 - **Challenge 1:** [I used six variables.. should've used five.]
 - **Challenge 2:** [I might've messed up with the if statements?? Unsure!]
