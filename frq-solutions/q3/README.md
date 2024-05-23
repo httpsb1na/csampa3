@@ -8,7 +8,7 @@ My second worst NIGHTMARE, will not be doing this again. Killed me with my time,
 - **Rate This Question?:** [-1]
 
 ## 🛍️ Struggles with This Question...
-Another fun fact is I forgot how to use math.random() during the previous mock exam... so perfect chance to redeem myself !!
+TIME, TIME, TIME. PART B KILLED MY TIME BC I OVERSPENT ON THERE.. 20 MINUTES GONE. 
 
 - **Challenge 1:** [This was before but I mixed up .size and .length depending on the array]
 - **Challenge 2:** [comparing strings within arraylists, i DID not make the silly == error though]
