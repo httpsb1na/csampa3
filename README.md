@@ -1,4 +1,4 @@
-# 🌟✨ Marking Period 3 Work 🌟✨
+# 🌟 Marking Period 3 Work 
 ## 🏫 AP Computer Science A -- FDR High School 
 
 ### 📝 In this Repository:
